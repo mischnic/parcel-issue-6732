@@ -1,0 +1,11 @@
+{
+	"name": "example",
+	"version": "0.0.0",
+	"scripts": {
+		"build": "parcel build index.js --no-optimize --no-scope-hoist --no-cache"
+	},
+	"dependencies": {
+		"@parcel/transformer-image": "2.0.0-nightly.2424",
+		"parcel": "2.0.0-nightly.800"
+	}
+}

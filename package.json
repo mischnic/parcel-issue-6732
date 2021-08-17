@@ -1,0 +1,9 @@
+{
+	"workspaces": [
+		"example",
+		"runtime"
+	],
+	"private": true,
+	"devDependencies": {
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "parcel-runtime-test",
+	"version": "0.0.0",
+	"dependencies": {
+		"@parcel/plugin": "2.0.0-nightly.802"
+	}
+}
